@@ -391,7 +391,7 @@ Whether execution work depends materially on this artifact.
 Whether changes to this artifact should trigger stronger review.
 
 ### 12.5 canonical
-true / false  
+true / false
 Useful if several related artifacts exist but only one is canonical.
 
 ### 12.6 tags
@@ -820,7 +820,7 @@ Whether execution work depends materially on this artifact.
 Whether changes to this artifact should trigger stronger review.
 
 ### 12.5 canonical
-true / false  
+true / false
 Useful if several related artifacts exist but only one is canonical.
 
 ### 12.6 tags
@@ -1127,7 +1127,7 @@ These failures must be resisted actively.
 
 27. Recommended initial schema
 
-A strong initial schema is:  
+A strong initial schema is:
 
 registry_name: KR Artifact Registry
 purpose: Tracks durable and strategically meaningful project artifacts.

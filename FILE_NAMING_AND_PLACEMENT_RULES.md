@@ -608,9 +608,9 @@ Recommended pattern:
 
 Example:
 
-> Purpose: Define KR’s durable position on input-format support.  
-> Authority: Cross-cutting doctrine for source-format expansion.  
-> Update when: The strategic format roadmap changes materially.  
+> Purpose: Define KR’s durable position on input-format support.
+> Authority: Cross-cutting doctrine for source-format expansion.
+> Update when: The strategic format roadmap changes materially.
 > Must not contain: Local parser implementation notes, temporary experiments, or execution tickets.
 
 This header improves:

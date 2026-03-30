@@ -246,11 +246,11 @@ The registry may also include optional fields such as:
 current_stage / v1 / later_state / cross_stage
 
 ### 8.2 under_artifacted
-true / false  
+true / false
 Useful if the aspect clearly needs more durable files than it currently has.
 
 ### 8.3 needs_research
-true / false  
+true / false
 Useful when evidence is clearly the next gate.
 
 ### 8.4 active_chat_count_or_marker
