@@ -331,31 +331,31 @@ It is meant to make actual position legible.
 The following transitions are especially common and should be treated as normal.
 
 ### T1
-S0 unentered → S1 scoped  
+S0 unentered → S1 scoped
 When the project first opens a dedicated aspect chat and clearly defines scope.
 
 ### T2
-S1 scoped → S2 mapped  
+S1 scoped → S2 mapped
 When the core terrain, questions, and tensions become visible.
 
 ### T3
-S2 mapped → S3 options compared  
+S2 mapped → S3 options compared
 When the project starts actively weighing plausible directions.
 
 ### T4
-S3 options compared → S4 provisionally directed  
+S3 options compared → S4 provisionally directed
 When a leading direction emerges.
 
 ### T5
-S4 provisionally directed → S5 under critique  
+S4 provisionally directed → S5 under critique
 When the project actively attacks and stress-tests the direction.
 
 ### T6
-S5 under critique → S6 provisionally hardened  
+S5 under critique → S6 provisionally hardened
 When the direction survives critique well enough to guide work, but still has meaningful open edges.
 
 ### T7
-S6 provisionally hardened → S7 hardened  
+S6 provisionally hardened → S7 hardened
 When the aspect becomes sufficiently durable, explicit, operational, and trustworthy for the current stage.
 
 These are the core development transitions.
@@ -367,15 +367,15 @@ These are the core development transitions.
 Blocked states should be used deliberately and specifically.
 
 ### T8
-Any active state → S8 blocked by evidence  
+Any active state → S8 blocked by evidence
 When research or verification is now necessary.
 
 ### T9
-Any active state → S9 blocked by user decision  
+Any active state → S9 blocked by user decision
 When the next step depends on real user approval, preference, or access.
 
 ### T10
-Any active state → S10 blocked by dependency  
+Any active state → S10 blocked by dependency
 When another aspect, artifact, or task must mature first.
 
 Blocked states are not failure.
