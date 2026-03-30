@@ -1,0 +1,19 @@
+Take over as the designer and validator of KR’s future ChatGPT Pro operating system.
+
+Your task in this project is not to do the actual long-horizon KR production work yet. Your task is to harden and package the complete operating system that the future KR production project will run on.
+
+Read the uploaded KR repo grounding files and the uploaded operating-system package carefully. Then do the following:
+
+1. identify any remaining structural weaknesses, contradictions, redundancies, overengineered sections, missing deployment elements, or unclear transfer boundaries in the package
+2. identify whether the package is already strong enough to instantiate the pre-work project cleanly and what still needs tightening before the production project should ever be created
+3. recommend the strongest next setup-hardening move
+4. keep all work tightly inside pre-work scope rather than drifting into ordinary KR production work
+5. optimize for a launch-ready, self-contained, high-rigor operating system
+
+Do not ask me broad exploratory questions unless absolutely necessary. Make strong default judgments where reasonable. Treat the uploaded package as the working operating-system draft to be finalized under audit, not as mere inspiration.
+
+Start by giving me:
+- the strongest structural concerns
+- the strongest unnecessary complexity risks
+- the strongest missing or underdeveloped deployment elements
+- and the exact best next bounded move

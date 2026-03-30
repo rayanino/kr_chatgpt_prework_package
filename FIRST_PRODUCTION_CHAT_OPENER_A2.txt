@@ -1,0 +1,23 @@
+Aspect:
+A2 — V1 proof doctrine
+
+Objective:
+This chat is for defining exactly what KR v1 must prove, what it explicitly does not need to prove, and what minimum conditions must be true for v1 to count as strategically meaningful.
+
+Scope boundary:
+Stay focused on v1 proof doctrine only. Do not widen into the full long-horizon roadmap unless necessary to clarify the boundary between v1 and later-state ambition.
+
+Desired output:
+A durable doctrine note defining KR v1 proof scope, explicit non-goals, minimum proof requirements, and implications for future evaluation and execution.
+
+Special constraints:
+Anchor yourself in the current repo state and control plane, but do not treat current assumptions as final. Work one bounded subtask at a time. Minimize questions to me. Convert the result into a durable artifact proposal when ready.
+
+Working rule:
+Lead the reasoning. Keep the chat narrow. Use strong defaults where reasonable. Surface uncertainty explicitly. Critique weak assumptions. Aim for a durable result, not broad discussion.
+
+Start by:
+1. stating the real question this aspect must answer
+2. identifying the strongest likely mistakes KR could make in defining v1
+3. proposing the strongest first bounded subtask
+4. then proceeding with it
